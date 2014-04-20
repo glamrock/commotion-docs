@@ -11,7 +11,7 @@ changed: 2013-11-22
 post_author: critzo
 lang: en
 ---
-<p><img alt="" class="media-image attr__typeof__foaf:Image img__fid__375 img__view_mode__media_original attr__format__media_original" height="330" src="/files/gather_tools_and_equipment_support_001.png" typeof="foaf:Image" width="510" /></p>
+<p><img alt="montage image of tools and equipment" class="noscale" src="/files/gather_tools_and_equipment_support_001.png" /></p>
 
 <section id="section-introduction">
 <h2>Introduction</h2>
@@ -43,7 +43,7 @@ lang: en
 	</thead>
 	<tbody>
 		<tr>
-			<td><img alt="" class="media-image attr__typeof__foaf:Image img__fid__291 img__view_mode__media_original attr__format__media_original" height="100" src="/files/tool_bag.png" typeof="foaf:Image" width="100" /></td>
+			<td><img alt="image of tool bag" class="noscale" src="/files/tool_bag.png" /></td>
 			<td>Tool Bag</td>
 			<td>Any 18” tool bag should be large enough</td>
 			<td>$45</td>

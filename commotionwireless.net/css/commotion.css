@@ -364,10 +364,6 @@ div.blog-landing .pagination .next {
   margin-left: 3em;
 }
 
-img.noscale {
-
-}
-
 /* Warning label style */
 .warning-label {
     border: 5px solid #000000;
@@ -585,8 +581,10 @@ div#download-button-block .download-button a.button {
   padding: 0 1em;
 }
 .cck-content img {
+/*
   width: 100%;
   height: auto;
+*/
 }
 .cck-content section {
   border-bottom: 1px solid white;
@@ -780,6 +778,9 @@ img.half-width {
 img.onethird-width {
   width: 30%;
   height: auto;
+}
+img.noscale {
+
 }
 img.floatleft {
   float: left;
